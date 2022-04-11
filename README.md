@@ -1,1 +1,2 @@
 # m14-hw14-carbary-carley
+For this project the two components from Bootstrap I chose to use besides the columns and navbar were a modal and a carousel. I used the modal to give a small bio about myself and the carousel I used to display my images to go along with the information. 
